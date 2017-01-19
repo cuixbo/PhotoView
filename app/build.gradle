@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.example.bm.photoview"
+        applicationId "com.example.bm.photoview.cuixbo"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 2
